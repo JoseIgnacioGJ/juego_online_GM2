@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrBroadcastUsers",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrBroadcastUsers",
+  "parent":{
+    "name":"Server",
+    "path":"folders/Scripts/Networking/Server.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

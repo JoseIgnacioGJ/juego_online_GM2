@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrSendInput",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrSendInput",
+  "parent":{
+    "name":"Client",
+    "path":"folders/Scripts/Networking/Client.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
